@@ -8,4 +8,5 @@
 [html Test](https://k3c4zo.github.io/test.html)<br />
 [md Test](https://k3c4zo.github.io/test/test)<br />
 [About Me](https://k3c4zo.github.io/about)<br />
+[C++ 基礎題教學(WIP)](https://k3c4zo.github.io/c++/easy)<br />
 [Disclaimer](https://k3c4zo.github.io/disclaimer)<br />
