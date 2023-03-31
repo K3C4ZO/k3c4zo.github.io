@@ -8,3 +8,4 @@
 [html Test](https://k3c4zo.github.io/test.html)<br />
 [md Test](https://k3c4zo.github.io/test/test)<br />
 [About Me](https://k3c4zo.github.io/about)<br />
+[Disclaimer](https://k3c4zo.github.io/disclaimer)<br />
