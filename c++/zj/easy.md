@@ -53,3 +53,16 @@ int main()
 		cout<<"大吉"<<endl;	
 	return 0;
  }
+```
+
+## d483
+[d483](https://zerojudge.tw/ShowProblem?problemid=d483)
+```cpp
+#include <iostream>
+using namespace std;
+
+int main()
+{
+	cout<<"hello, world"<<endl; //輸出"hello, world"
+	return 0;
+}
