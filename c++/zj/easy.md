@@ -34,4 +34,22 @@ int main()
  }
  ```
 
+## a003
+[a003](https://zerojudge.tw/ShowProblem?problemid=a003)
 
+```cpp
+#include <iostream>
+using namespace std;
+int main()
+{
+	int m,d,s; //宣告變數
+	cin>>m>>d; //讀入變數
+	s=(m*2+d)%3; //計算s
+	if (s==0) //s是0時輸出普通
+		cout<<"普通"<<endl;
+	else if (s==1) //s是1時輸出吉
+		cout<<"吉"<<endl;
+	else if (s==2) //s是2時輸出大吉
+		cout<<"大吉"<<endl;	
+	return 0;
+ }
