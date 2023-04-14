@@ -57,6 +57,7 @@ int main()
 
 ## d483
 [d483](https://zerojudge.tw/ShowProblem?problemid=d483)
+
 ```cpp
 #include <iostream>
 using namespace std;
@@ -66,3 +67,19 @@ int main()
 	cout<<"hello, world"<<endl; //輸出"hello, world"
 	return 0;
 }
+```
+
+## a002
+[a002](https://zerojudge.tw/ShowProblem?problemid=a002)
+
+```cpp
+#include <iostream>
+using namespace std;
+int main()
+{
+	int a,b; //宣告變數a,b
+	cin>>a>>b; //輸入變數a,b
+	cout<<a+b<<endl; //輸出a+b的和
+	return 0;
+ }
+ ```
