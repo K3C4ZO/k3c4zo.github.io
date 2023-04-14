@@ -38,5 +38,23 @@ int main()
 
 	return 0;
 }
+```
+
+## d051
+[d050](https://zerojudge.tw/ShowProblem?problemid=d051)
+
+```cpp
+#include <iostream>
+#include <iomanip>
+using namespace std;
+
+int main()
+{
+	double f;
+	cin>>f;
+	cout << fixed << setprecision(3)<<(f-32)*5/9<<endl; //輸出四捨五入至小數點後第三位的攝氏溫度
+
+	return 0;
+}
 
 
