@@ -68,5 +68,6 @@ int main()
 	return 0;
 }
 ```
-
+---
+[home](https://k3c4zo.github.io)
 
